@@ -5,7 +5,7 @@
 public class Cliente{
     private int ID;
     private String name;
-    private String endereco;
+    protected String endereco;
 
     //private só eu (classe atual) usa
     //public qualquer função pode usar
